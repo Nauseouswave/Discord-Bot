@@ -1,2 +1,2 @@
 ﻿# Discord-Bot
-#Replace (BOT TOKEN) with your oAuth token.
+#Replace (BOT TOKEN) with your bot token.
