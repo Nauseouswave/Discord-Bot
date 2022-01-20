@@ -3,7 +3,7 @@ const api = require("imageapi.js");
 const client = new Discord.Client();
 
 client.on("ready", () => {
-    console.log(`I am ready! POGCHAMP`);
+    console.log(`I am ready!`);
  
     client.user.setActivity(`Hello!`);
 });
